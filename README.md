@@ -1,1 +1,7 @@
-# Primeiro-Reposit-rio---Jucimara-
+Repositorio criado no curso , para aprendizado . 
+Tirar duvidas 
+
+## Linguagens Utilizadas:
+
+- HTML
+- CSS
